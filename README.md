@@ -11,6 +11,9 @@
 
 💡 Me especializo en el desarrollo de interfaces dinámicas con React, arquitecturas de servidor con Node.js/Express y gestión de bases de datos tanto NoSQL como SQL.
 
+<p align="center">
+</p>
+
 🚀 Proyectos actuales:
 
     Store Management System: Sistema de control de inventario y registro de ventas desarrollado con el stack MERN (MongoDB, Express, React, Node.js).
@@ -33,6 +36,8 @@
 
     Exploro nuevas librerías y me mantengo al día con las mejores prácticas de CSS/SCSS para crear interfaces modernas y adaptables.
 
+<p align="center">
+</p>
 
 ### 🛠️ Pila de Tecnología
 
@@ -44,7 +49,8 @@
 | ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
----
+<p align="center">
+</p>
 
 ### 🧰 Herramientas & Otros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -52,7 +58,8 @@
 ![APIs](https://img.shields.io/badge/APIs-0055FF?style=for-the-badge&logo=api&logoColor=white)
     
 
----
+<p align="center">
+</p>
 
 ## 🤝 Hablemos de tecnología
 
