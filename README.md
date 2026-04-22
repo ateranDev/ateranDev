@@ -59,6 +59,6 @@
 
 ## 🤝 Hablemos de tecnología
 
-> 💬 **¿Buscas colaborar?** Estoy siempre abierto a participar en proyectos de software, realizar consultoría técnica o simplemente debatir sobre el futuro del desarrollo web.
+> 💬 **¿Buscas colaborar?** Estoy siempre abierto a participar en proyectos de software o realizar consultorías técnicas
 >
-> ✉️ ** Puedes contactarme directamente para cualquier consulta. Valoro mucho el feedback constructivo y las nuevas ideas. ¡Hagamos algo genial juntos!
+> ✉️ **Puedes contactarme** directamente para cualquier consulta. Valoro mucho el feedback constructivo y las nuevas ideas. ¡Hagamos algo genial juntos!
