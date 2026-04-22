@@ -7,13 +7,13 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
-<p align="center">
 👨‍💻 Desarrollador Full-Stack orientado a resultados. Actualmente enfocado en la construcción de aplicaciones web modernas y escalables utilizando el ecosistema de JavaScript y tecnologías relacionales.
 
 💡 Me especializo en el desarrollo de interfaces dinámicas con React, arquitecturas de servidor con Node.js/Express y gestión de bases de datos tanto NoSQL como SQL.
 
-
-</p>
+<br/>
+<br/>
+<br/>
 
 🚀 Proyectos actuales:
 
