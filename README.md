@@ -55,8 +55,11 @@
 ![APIs](https://img.shields.io/badge/APIs-0055FF?style=for-the-badge&logo=api&logoColor=white)
     
 
-💬 Estoy abierto a colaboraciones en proyectos de software, consultoría técnica o simplemente a intercambiar ideas sobre el futuro del desarrollo web.
+---
 
-✉️ ¡Puedes contactarme directamente para cualquier consulta! Siempre estoy abierto a recibir sugerencias y feedback constructivo.
+## 🤝 Hablemos de tecnología
 
+> 💬 **¿Buscas colaborar?** Estoy siempre abierto a participar en proyectos de software, realizar consultoría técnica o simplemente debatir sobre el futuro del desarrollo web.
+>
+> ✉️ **¡No seas tímid@!** Puedes contactarme directamente para cualquier consulta. Valoro mucho el feedback constructivo y las nuevas ideas. ¡Hagamos algo genial juntos!
 
