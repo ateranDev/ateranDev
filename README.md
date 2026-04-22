@@ -9,11 +9,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> Sobre mi
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-💻 Sobre Mí
-
+<br>
 👨‍💻 Desarrollador Full-Stack orientado a resultados. Actualmente enfocado en la construcción de aplicaciones web modernas y escalables utilizando el ecosistema de JavaScript y tecnologías relacionales.
 
 💡 Me especializo en el desarrollo de interfaces dinámicas con React, arquitecturas de servidor con Node.js/Express y gestión de bases de datos tanto NoSQL como SQL.
