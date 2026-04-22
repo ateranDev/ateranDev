@@ -22,6 +22,8 @@
 
     Gestión de bases de datos relacionales con MySQL y modelado de datos con Mongoose.
 
+<br/>
+
 🌱 Enfoque de aprendizaje:
 
     Expandiendo mis habilidades en el backend con PHP.
@@ -36,8 +38,10 @@
 
     Exploro nuevas librerías y me mantengo al día con las mejores prácticas de CSS/SCSS para crear interfaces modernas y adaptables.
 
-<p align="center">
-</p>
+
+<br/>
+<br/>
+<br/>
 
 ### 🛠️ Pila de Tecnología
 
@@ -51,6 +55,9 @@
 
 <p align="center">
 </p>
+
+<br/>
+<br/>
 
 ### 🧰 Herramientas & Otros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
